@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+ 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Document</title> 
+</head> 
+ 
+<body> 
+    <h1>student file</h1> 
+    Student Id :{{studentId}}<br> 
+        Student Name :{{studentName}}<br> 
+            student Marks :{{studentMarks}}<br>
+            
+               <table border=1>
+               <tr><th>Subject</th><th>marks</th></tr>
+               {{#subjects}}
+               <tr>
+               <td>{{name}}</td>
+               <td>{{marks}}</td>
+               </tr>
+               {{/subjects}}
+               </table>
+ 
+</body> 
+ 
+</html>
