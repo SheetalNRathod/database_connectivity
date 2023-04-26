@@ -1,0 +1,34 @@
+{
+  "Users": [
+    {
+      "username": "S Rathod",
+      "email": "s1@gmail.com",    
+      "password": "Sh@123#abc"
+    },
+    {
+      "username":"Darshan Rathi",
+      "email":"dar27@gmail.com",
+      "password":"Dar@456#def"
+    },
+    {
+      "username": "Nimisha Sharma",
+      "email": "ni@gmail.com",
+      "password": "ni@951#lmn"
+    },
+    {
+      "username": "Heena Shukla",
+      "email": "H2@gmail.com",
+      "password": "he@789#qwe"
+    },
+    {
+      "username": "Kunjal Roy",
+      "email": "Ku@gmail.com",
+      "password": "Ku@159#kjl"
+    },
+    {
+      "username": "S Rathod",
+      "email": "s1@gmail.com",
+      "password": "Sh@123#abc"
+    }
+  ]
+}
